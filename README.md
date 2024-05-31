@@ -1,6 +1,6 @@
 # Sales Order Management System
 
-    Hosted Link-(https://sweet-squirrel-1e8f80.netlify.app)
+    [Hosted Link](https://sweet-squirrel-1e8f80.netlify.app/)
     Username- admin
     Password - password
 
