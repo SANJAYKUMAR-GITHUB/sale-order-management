@@ -3,7 +3,6 @@
     [Hosted Link](https://sweet-squirrel-1e8f80.netlify.app/)
     Username- admin
     Password - password
-
 ## Overview
 
 This project is a Sales Order Management System built using React, Chakra UI, and React Query. It includes features for creating, editing, and viewing active and completed sales orders.
