@@ -23,27 +23,6 @@ This project is a Sales Order Management System built using React, Chakra UI, an
 - React Router
 - Mock Data (for demonstration purposes)
 
-## Project Structure
-src/
-|
-|-- components/Auth
-| |-- LoginPage.js
-| |-- ThemeToggle.js
-|-- forms/
-| |-- SaleOrderForm.js
-|-- pages/
-| |-- ActiveSaleOrders.js
-| |-- CompletedSaleOrder.js
-| |-- SaleOrderManagement.js
-|-- App.css
-|-- App.js
-|-- App.test.js
-|-- index.css
-|-- index.js
-|-- mockData.js
-|-- theme.js
-
-
 ## Installation
 
 1. Clone the repository:
