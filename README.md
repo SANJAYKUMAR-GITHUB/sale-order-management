@@ -67,10 +67,10 @@ src/
 
 To start the development server, run:
 
-    npm start
+    $ npm start
 
 ## Deploying the project
 
 To build the project for deployment, run:
 
-   npm run build
+    $ npm run build
