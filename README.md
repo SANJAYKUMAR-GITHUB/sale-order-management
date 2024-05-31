@@ -25,6 +25,7 @@ This project is a Sales Order Management System built using React, Chakra UI, an
 
 ## Project Structure
 src/
+|
 |-- components/Auth
 | |-- LoginPage.js
 | |-- ThemeToggle.js
